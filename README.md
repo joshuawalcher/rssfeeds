@@ -1,10 +1,8 @@
-# rssfeeds
+# RSS Feeds
  A curated list of active RSS feeds
  
 <h3><strong>News</strong></h3>
 <ul>
-  <li><a href="http://online.wsj.com/xml/rss/3_7011.xml">Wallstreet Journal</a></li>
-  <li><a href="http://feeds.foxnews.com/foxnews/scitech">Fox News Science</a></li>
   <li><a href="http://rss.cnn.com/rss/cnn_topstories.rss">CNN – Top Stories</a></li>
   <li><a href="http://feeds.feedburner.com/time/topstories">Time Magazine – Top Stories</a></li>
   <li><a href="http://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml">NYTimes – Homepage</a></li>
@@ -22,6 +20,7 @@
   <li><a href="http://www.newyorker.com/services/rss/feeds/everything.xml">New Yorker – Everything</a></li>
   <li><a href="http://www.dailymail.co.uk/articles.rss">Daily Mail – Latest stories</a> </li>
   <li><a href="https://nypost.com/feed/">New York Post</a></li>
+  <li><a href="http://feeds.foxnews.com/foxnews/scitech">Fox News Science</a></li>
 </ul>
 <h3><strong>Sports</strong></h3>
 <ul>
