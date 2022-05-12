@@ -13,7 +13,7 @@
   <li><a href="https://www.huffingtonpost.com/section/front-page/feed">Huffington Post</a></li>
   <li><a href="http://rss.cnn.com/rss/cnn_world.rss">CNN – World news</a></li>
   <li><a href="http://abcnews.go.com/abcnews/topstories">ABC News –  Top stories</a></li>
-  <li><a href="http://feeds.reuters.com/reuters/topNews?irpc=69">Reuters – Top stories</a></li>
+  <li><a href="https://www.reutersagency.com/feed/?taxonomy=best-topics&post_type=best">Reuters – Top stories</a></li>
   <li><a href="http://www.drudgereportfeed.com/rss.xml">Drudge Report</a></li>
   <li><a href="http://www.marketwatch.com/rss/topstories/">Market Watch – Top stories</a></li>
   <li><a href="https://www.salon.com/feed/">Salon.com</a></li>
