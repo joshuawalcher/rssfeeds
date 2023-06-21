@@ -28,7 +28,13 @@
   <li><a href="http://www.espn.com/espn/rss/news">ESPN</a></li>
   <li><a href="http://www.nba.com/rss/nba_rss.xml">NBA.com</a></li>
   <li><a href="http://www.nfl.com/rss/rsslanding?searchString=home">NFL.com</a></li>
-  <li><a href="https://www.yahoo.com/news/rss/sports">Yahoo Sports</a></li>
+  <li><a href="https://sports.yahoo.com/rss">Yahoo Sports</a></li>
+  <li><a href="https://sports.yahoo.com/nba/rss">Yahoo Sports - NBA</a></li>
+  <li><a href="https://sports.yahoo.com/mlb/rss">Yahoo Sports - MLB</a></li>
+  <li><a href="https://sports.yahoo.com/nfl/rss">Yahoo Sports - NFL</a></li>
+  <li><a href="https://sports.yahoo.com/ncaab/rss">Yahoo Sports - NCAAB</a></li>
+  <li><a href="https://sports.yahoo.com/nhl/rss">Yahoo Sports - NHL</a></li>
+  <li><a href="https://sports.yahoo.com/ufc/rss">Yahoo Sports - UFC</a></li>
   <li><a href="http://newsrss.bbc.co.uk/rss/sportonline_world_edition/front_page/rss.xml">BBC Sports – World edition</a></li>
   <li><a href="https://www.westhesportsguy.com/feeds/posts/default">We the sports guys</a></li>
   <li><a href="https://api.foxsports.com/v1/rss?partnerKey=zBaFxRyGKCfxBagJG9b8pqLyndmvo7UU">Fox Sports</a></li>
