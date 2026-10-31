@@ -68,6 +68,7 @@
   <li><a href="http://feeds.feedburner.com/Makeuseof">MakeUsOf</a></li>
   <li><a href="http://www.cnet.com/rss/news">CNet.com</a></li>
   <li><a href="http://feeds.howtogeek.com/HowToGeek">HowToGeek</a></li>
+  <li><a href="https://joho-todai.com/pinterest-rss/">Joho no Todai - Japanese technology news</a></li>
 </ul>
 <h3><strong>Business</strong></h3>
 <ul>
